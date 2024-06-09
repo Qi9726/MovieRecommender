@@ -2,7 +2,7 @@
 
 
 # Overview
-In this project, we developed a movie recommendation app with two approaches: 1. Genres, 2.Item-based collaborative filtering (IBCF).
+In this project, we developed a movie recommendation app on MovieLens dataset with two approaches: 1. Genres, 2.Item-based collaborative filtering (IBCF).
 See implementations and details in Movie_Recommender_System.ipynb
 
 # Team Members:
