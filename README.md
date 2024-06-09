@@ -11,5 +11,8 @@ Qi Zhou,
 Yogananth Mahalingam,
 Derek Zhang
 
+# Data source:
+MovieLens 1M Dataset https://grouplens.org/datasets/movielens/1m/
+
 # App:
 https://movie-recommender-psl-cs598.streamlit.app/
