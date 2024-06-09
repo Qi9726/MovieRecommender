@@ -2,7 +2,8 @@
 
 
 # Overview
-In this project, we developed a movie recommendation app with two approaches: 1. Genres, 2.Item-based collaborative filtering (IBCF)
+In this project, we developed a movie recommendation app with two approaches: 1. Genres, 2.Item-based collaborative filtering (IBCF).
+See details in 
 
 # Team Members:
 Qi Zhou,
